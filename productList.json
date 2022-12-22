@@ -77,6 +77,7 @@
         { "id": 454, "name": "Caramel macadamia cheese cake", "price": 115 },
         { "id": 454, "name": "Ice cream", "price": 55 },
         { "id": 454, "name": "Merry Chistmas Cake", "price": 105 },
+          { "id": 454, "name": "Matcha roll", "price": 95 },
         { "id": 454, "name": "Strawberry Short Cake", "price": 95 }
       ]
     }
