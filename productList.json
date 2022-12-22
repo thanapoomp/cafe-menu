@@ -42,6 +42,7 @@
       "products": [
         { "id": 327, "name": "Strawberry Cocoa", "price": 90 },
         { "id": 328, "name": "Strawberry Fresh Milk", "price": 80 },
+          { "id": 328, "name": "Strawberry Matcha", "price": 95 },
         { "id": 329, "name": "Cocoa ร้อน", "price": 65 },
         { "id": 330, "name": "Cocoa เย็น", "price": 70 },
         { "id": 331, "name": "Cocoa mint", "price": 80 },
