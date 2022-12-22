@@ -1,0 +1,84 @@
+[
+    {
+      "name": "COFFEE",
+      "products": [
+        { "id": 101, "name": "Espresso ร้อน", "price": 50 },
+        { "id": 102, "name": "Espresso เย็น", "price": 70 },
+        { "id": 103, "name": "Americano ร้อน", "price": 60 },
+        { "id": 104, "name": "Americano เย็น", "price": 70 },
+        { "id": 105, "name": "Cappuccino ร้อน", "price": 65 },
+        { "id": 106, "name": "Cappuccino เย็น", "price": 70 },
+        { "id": 108, "name": "Latte ร้อน", "price": 65 },
+        { "id": 109, "name": "Latte เย็น", "price": 70 },
+        { "id": 110, "name": "Mocha ร้อน", "price": 70 },
+        { "id": 111, "name": "Mocha เย็น", "price": 80 },
+        { "id": 112, "name": "Caramel/Vanilla latte", "price": 80 },
+        { "id": 113, "name": "Rose latte", "price": 80 },
+        { "id": 114, "name": "Nutella Coffee", "price": 90 },
+        { "id": 115, "name": "Dirty classic", "price": 75 },
+        { "id": 116, "name": "Dirty coconut", "price": 80 },
+        { "id": 117, "name": "Dirty matcha", "price": 85 }
+      ]
+    },
+    {
+      "name": "BLACK & Refresher",
+      "products": [
+        { "id": 215, "name": "Cafelista Signature", "price": 90 },
+        { "id": 216, "name": "Black Ume", "price": 90 },
+        { "id": 217, "name": "Black Yuzu", "price": 90 },
+        { "id": 218, "name": "Black Orange", "price": 90 },
+        { "id": 219, "name": "Black Peach", "price": 90 },
+        { "id": 220, "name": "Mrs. Peach", "price": 80 },
+        { "id": 221, "name": "Lychee & Rose", "price": 70 },
+        { "id": 222, "name": "Yuzu & Peach", "price": 70 },
+        { "id": 223, "name": "Peach & Strawberry", "price": 70 },
+        { "id": 224, "name": "Lemon & Mint", "price": 70 },
+        { "id": 225, "name": "Lychee & Peach", "price": 70 },
+        { "id": 226, "name": "Honey & Lemon", "price": 70 }
+      ]
+    },
+    {
+      "name": "TEA & OTHER",
+      "products": [
+        { "id": 327, "name": "Strawberry Cocoa", "price": 90 },
+        { "id": 328, "name": "Strawberry Fresh Milk", "price": 80 },
+        { "id": 329, "name": "Cocoa ร้อน", "price": 65 },
+        { "id": 330, "name": "Cocoa เย็น", "price": 70 },
+        { "id": 331, "name": "Cocoa mint", "price": 80 },
+        { "id": 332, "name": "Cocoa Nutella", "price": 90 },
+        { "id": 333, "name": "Green tea ร้อน", "price": 65 },
+        { "id": 334, "name": "Green tea เย็น", "price": 70 },
+        { "id": 335, "name": "Matcha latte ร้อน", "price": 80 },
+        { "id": 336, "name": "Matcha latte เย็น", "price": 95 },
+        { "id": 337, "name": "Matcha Caramel latte", "price": 100 },
+        { "id": 338, "name": "Thai tea ร้อน", "price": 65 },
+        { "id": 339, "name": "Thai tea เย็น", "price": 70 },
+        { "id": 340, "name": "Mint Thai tea", "price": 80 },
+        { "id": 341, "name": "Honey lemon tea", "price": 75 },
+        { "id": 342, "name": "Caramel Vanilla milk ร้อน", "price": 65 },
+        { "id": 343, "name": "Caramel Vanilla milk เย็น", "price": 70 },
+        { "id": 344, "name": "Peachy", "price": 85 },
+        { "id": 345, "name": "Peach Tea", "price":75}
+      ]
+    },
+    {
+      "name": "Bakery",
+      "products": [
+        { "id": 446, "name": "เค้กแครอท", "price": 95 },
+        { "id": 447, "name": "เค้กเรดเวลเวท", "price": 95 },
+        { "id": 448, "name": "พานาคอทต้า", "price": 75 },
+        { "id": 449, "name": "ครัวซอง", "price": 70 },
+        { "id": 450, "name": "ครัวซองอัลม่อน", "price": 90 },
+        { "id": 451, "name": "ครัวซองแมคคาเดเมีย", "price": 95 },
+        { "id": 452, "name": "มิลค์กี้บราวนี่", "price": 65 },
+        { "id": 454, "name": "Lemon cake", "price": 95 },
+        { "id": 454, "name": "Very Chocolate", "price": 95 },
+        { "id": 454, "name": "Coconut cake", "price": 95 },
+        { "id": 454, "name": "Caramel macadamia cheese cake", "price": 115 },
+        { "id": 454, "name": "Ice cream", "price": 55 },
+        { "id": 454, "name": "Merry Chistmas Cake", "price": 105 },
+        { "id": 454, "name": "Strawberry Short Cake", "price": 95 }
+      ]
+    }
+  ]
+  
