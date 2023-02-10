@@ -14,6 +14,7 @@
         { "id": 111, "name": "Mocha เย็น", "price": 80 },
         { "id": 112, "name": "Caramel/Vanilla latte", "price": 80 },
         { "id": 113, "name": "Rose latte", "price": 80 },
+        { "id": 113, "name": "Strawberry latte", "price": 95 },
         { "id": 114, "name": "Nutella Coffee", "price": 90 },
         { "id": 115, "name": "Dirty classic", "price": 75 },
         { "id": 116, "name": "Dirty coconut", "price": 80 },
