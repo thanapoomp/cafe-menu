@@ -68,6 +68,7 @@
       "name": "Bakery",
       "products": [
         { "id": 446, "name": "เค้กแครอท", "price": 95 },
+        { "id": 446, "name": "Valentine combo set", "price": 250 },
         { "id": 447, "name": "เค้กเรดเวลเวท white choc", "price": 105 },
         { "id": 448, "name": "พานาคอทต้า", "price": 75 },
         { "id": 449, "name": "ครัวซอง", "price": 70 },
