@@ -68,7 +68,7 @@
       "name": "Bakery",
       "products": [
         { "id": 446, "name": "เค้กแครอท", "price": 95 },
-        { "id": 446, "name": "มัจฉะ เร้ดบีน พุดดิ้ง", "price": 85 },
+        { "id": 446, "name": "Glazed Doughnuts", "price": 35 },
         { "id": 447, "name": "เค้กเรดเวลเวท white choc", "price": 105 },
         { "id": 448, "name": "พานาคอทต้า", "price": 75 },
         { "id": 449, "name": "ครัวซอง", "price": 70 },
